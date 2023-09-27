@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#bigc{
+    border: solid 25px #18184f;
+    height: 600px;
+    width: 600px;
+    border-radius: 300px;
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/74/21/office-assistant-girl-working-at-the-workstation-vector-40707421.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 70px auto;
+    position: relative;
+}
+#mfa{
+    background-color: #176B87;
+    top:30px;
+    left: 520px;
+}
+.border{
+    border: solid 10px white;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -10px -10px 70px -10px grey ;
+    position: absolute;
+}
+#dfa{
+    background-color: #18184f;
+    top: 180px;
+    left: 400px;
+}
+
+#gtally{
+    background-color: #176B87;
+    top: 400px;
+    left: 380px;
+}
+#smart{
+    background-color: #18184f;
+    top: 570px;
+    left: 500px;
+    text-align: center;
+}
